@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="post-header portrait">
+    <header class="wrapper">
+        <img class="post-portrait" src="{{ site.baseurl }}/assets/{{ page.image | downcase }}.jpg" />
+        <div class="post-details">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <ul class="demographic">
+            {% for demographic in page.demographic %}
+                <li>{{ demographic }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+    </header>
+</div>
+
+<article class="post-content wrapper">
+    <div class="col-wrapper">
+        {{ content }}
+    </div>
+</article>

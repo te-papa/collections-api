@@ -1,0 +1,9 @@
+# Site settings
+title: Te Papa Collections API Personas
+email: webmaster@tepapa.govt.nz
+description: Te Papa's personas for the Collections API
+baseurl: "/api-personas" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
