@@ -1,3 +1,3 @@
-# TPCO API personas
+# Te Papa Collections API personas
 
 Go see them at [http://te-papa.github.io/api-personas]
