@@ -27,7 +27,7 @@ I am committed to helping progress my sector, so I contribute my time and energy
 ## Examples
 
 * "I am creating a JavaScript widget that GLAMs can place on their website to automatically search and combine Linked Data metadata to display images from around the country that are relevant to the topic of that webpage"
-* "We use Jena internally for our specimens, so it's easiest if I can connect directly to a SPAQL endpoint to combine it with local queries."
+* "We use Jena internally for our specimens, so it's easiest if I can connect directly to a SPARQL endpoint to combine it with local queries."
 * Te Papa sector partners, e.g. Google Art Project, Wikimedia, Birds Online, and Nature Watch.
 
 </div>
