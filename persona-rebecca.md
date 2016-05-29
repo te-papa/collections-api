@@ -10,7 +10,7 @@ demographic: [Scientist, Public institution,Big data analysis, Downloads]
 
 ## About Rebecca
 
-1. I am a ‘digital humanist' academic researcher.  Increasingly I am expected to include data analysis as part of my process.  Mostly I perform speculative investigation using a variety of algorithms over dumps of metadata or media assets to reveal new patterns or connections.
+1. I am a 'digital humanist' academic researcher.  Increasingly I am expected to include data analysis as part of my process.  Mostly I perform speculative investigation using a variety of algorithms over dumps of metadata or media assets to reveal new patterns or connections.
 2. I am a biodiversity scientist.  I work with specimen datasets from around the world in specialist software that plots & analyses environmental sensor and specimen collection data on maps.
 
 ## Attributes
@@ -18,7 +18,7 @@ demographic: [Scientist, Public institution,Big data analysis, Downloads]
 * Medium tech literacy
 * Familiar with Te Papa but not the GLAM sector
 * Passionate about their specialist subject area rather than the technology itself
-* Has developed proficiency in a couple of tools (e.g. R and Python), but would never call themselves a ‘developer'
+* Has developed proficiency in a couple of tools (e.g. R and Python), but would never call themselves a 'developer'
 
 </div>
 <div class="col">
