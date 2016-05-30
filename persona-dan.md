@@ -1,7 +1,7 @@
 ---
 layout: persona
 title:  "Dan (sector developer)"
-image:  "george"
+image:  "dan"
 demographic: [Developer, Public institution, Champions emerging IT solutions, Real-time access]
 ---
 

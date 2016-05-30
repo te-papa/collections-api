@@ -1,7 +1,7 @@
 ---
 layout: persona
 title:  "Te Papa Website (web developer)"
-image:  "george"
+image:  "jameshector1"
 demographic: [Developer, Te Papa, Provides online experience of Te Papa collections, Real-time access]
 ---
 

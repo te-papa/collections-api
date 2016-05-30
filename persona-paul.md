@@ -1,7 +1,7 @@
 ---
 layout: persona
 title:  "Paul (sector professional)"
-image:  "george"
+image:  "paul"
 demographic: [Collection manager, Public institution, Integrates to improve access to collections, Batch querying]
 ---
 

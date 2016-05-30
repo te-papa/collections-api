@@ -1,7 +1,7 @@
 ---
 layout: persona
 title:  "Rebecca (researcher)"
-image:  "george"
+image:  "rebecca"
 demographic: [Scientist, Public institution,Big data analysis, Downloads]
 ---
 

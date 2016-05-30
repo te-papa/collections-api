@@ -1,7 +1,7 @@
 ---
 layout: persona
 title:  "Courtney (commercial app developer)"
-image:  "george"
+image:  "courtney"
 demographic: [Developer, Private company, Consumes many different APIs, Real-time access]
 ---
 
