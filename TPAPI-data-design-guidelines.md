@@ -208,8 +208,8 @@ This provides a fast response, but to present a list of related people requires 
   "related": [
     {
       "id": "1234",
-      "name": "Anne Hamblett"
-      "role": [
+      "name": "Anne Hamblett",
+      "roles": [
         "artist"
       ]
     }
