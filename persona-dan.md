@@ -11,6 +11,7 @@ demographic: [Developer, Public institution, Champions emerging IT solutions, Re
 ## About Dan
 
 I am a developer in a medium-sized public institution (in the heritage, science, or art sector).  
+
 I am committed to helping progress my sector, so I contribute my time and energy to the collaborative development of new and emerging IT standards and solutions.
 
 ## Attributes

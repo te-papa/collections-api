@@ -8,7 +8,7 @@ demographic: [Developer, Te Papa, Provides online experience of Te Papa collecti
 {::options parse_block_html="true" /}
 <div class="col">
 
-## About Te Papa website developer
+## About Te Papa website
 
 I am a Te Papa website eating your API.
 

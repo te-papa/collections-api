@@ -11,7 +11,8 @@ demographic: [Developer, Private company, Consumes many different APIs, Real-tim
 ## About Courtney
 
 I develop web and phone apps commercially for clients in NZ and internationally, so I work with APIs from a wide range of industries.  
-Due to commercial deadlines I don't have enough time to really understand the APIs (or the business models behind them) -- I tend to only learn enough about the APIs so that I can integrate their processes or content into my software.
+
+Due to commercial deadlines I don't have enough time to really understand the APIs (or the business models behind them) &ndash; I tend to only learn enough about the APIs so that I can integrate their processes or content into my software.
 
 ## Attributes
 

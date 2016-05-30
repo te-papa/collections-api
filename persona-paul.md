@@ -11,6 +11,7 @@ demographic: [Collection manager, Public institution, Integrates to improve acce
 ## About Paul
 
 I am responsible for visitors' digital access to my institution's collections (in the heritage, science, or art sector).  
+
 My focus is on outputs that improve the quality of access, e.g. more content, a more visual experience, or improved searchability.
 
 ## Attributes
@@ -38,6 +39,6 @@ My focus is on outputs that improve the quality of access, e.g. more content, a 
 
 ## My pain points
 
-* It can be tricky to implement solutions in my organisation's environment due to restrictive corporate IT policies or vendor lock-in, so I'm stuck if an API doesn't provide the data format or programming language that my organisation or vendor mandates
+* It can be tricky to implement solutions in my organisation's environment due to restrictive corporate IT policies or vendor lock-in, so I'm stuck if an API doesn't provide the data format or support the programming language that my organisation or vendor mandates
 
 </div>
