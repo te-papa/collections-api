@@ -45,6 +45,7 @@ Due to commercial deadlines I don't have enough time to really understand the AP
 ## My pain points
 
 * I'm frustrated by APIs and data that take a lot of time to understand.  Often I end up having long email conversations with API producers to clarify what certain fields mean or what are the range of possible values for a field
-* I'm frustrated by APIs that are unstable -- I deal with many different APIs and too much of my time is spent fixing data inconsistencies (e.g. text in numeric fields), undocumented changes, or version upgrades.
+* I'm frustrated by APIs that are unstable -- I deal with many different APIs and too much of my time is spent fixing data inconsistencies (e.g. text in numeric fields), undocumented changes, undocumented rate/paging limitations, or version upgrades
+* A small niggle is when the source's website contains different data to the API, making 'sanity checks' confusing
 
 </div>

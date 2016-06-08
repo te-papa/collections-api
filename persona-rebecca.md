@@ -43,5 +43,6 @@ demographic: [Scientist, Public institution,Big data analysis, Downloads]
 
 * Sometimes I have to abandon a data source if its range of programming language libraries or output formats doesn't include the only one that I have some proficiency in
 * I am frustrated when dataset identifiers don't align as it slows down combining the data from multiple sources to get an aggregate picture
+* It can get tricky keeping downloaded datasets in sync when I can't filter for recently added/changed records or the OAI-PMH implementation doesn't notify deletions
 
 </div>

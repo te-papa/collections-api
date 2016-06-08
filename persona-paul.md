@@ -40,5 +40,7 @@ My focus is on outputs that improve the quality of access, e.g. more content, a 
 ## My pain points
 
 * It can be tricky to implement solutions in my organisation's environment due to restrictive corporate IT policies or vendor lock-in, so I'm stuck if an API doesn't provide the data format or support the programming language that my organisation or vendor mandates
+* Some of the tools I use are older or 'lite' versions with limited functionality so they have difficulties dealing with modern APIs, e.g. they can't send/read API keys, hypermedia, etc. via HTTP headers 
+* Downloading data can take a lot longer if I have to run thousands of extra calls just to add in related resource labels, e.g. when the record only includes the IDs for related subject terms
 
 </div>

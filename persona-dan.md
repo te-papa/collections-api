@@ -46,7 +46,7 @@ I am committed to helping progress my sector, so I contribute my time and energy
 
 ## My pain points
 
-* I find my task Is harder when I'm calling multiple APIs but some don't conform to best practice or international standards
+* I find my task is harder when I'm calling multiple APIs but some don't conform to best practice or international standards
 * I'm frustrated by APIs that are hard to integrate with my system, e.g. can't query using industry-standard identifiers
 * I'm frustrated when I can't openly share API deep links or their content with other colleagues in my sector, e.g. a key/password is required or there are restrictive licences
 * I feel isolated when an API is closed source or doesn't have a community around it.  I want to be able to report bugs and discover how other API consumers got around the issue
