@@ -1,3 +1,6 @@
-# Te Papa Collections API personas
+# Te Papa Collections API
 
-Go see them at [http://te-papa.github.io/api-personas]
+### API project documents
+
+* [API personas](http://te-papa.github.io/collections-api)
+* [API data design guidelines](https://github.com/te-papa/collections-api/blob/gh-pages/TPAPI-data-design-guidelines.md) 
