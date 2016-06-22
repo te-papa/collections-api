@@ -6,7 +6,7 @@
 
     <ul class="quick-list">
       {% for link in site.pages %}
-          {% if link.path contains 'persona' %}
+          {% if link.path contains 'persona-' %}
               <li>
                   <a href="{{ link.url | prepend: site.baseurl }}">
                       <img{% if page.url contains link.url %} class="active"{% endif %} src="{{ site.baseurl }}/assets/{{ link.image | downcase }}.jpg" />
